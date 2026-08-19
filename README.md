@@ -1,6 +1,6 @@
 Hi, I'm Zahrah Mukarram 👋
 
-Aspiring Linux Administrator and Cloud Engineer.
+Aspiring AWS and DevOps Engineer.
 
 Skills:
 - Linux Administration
